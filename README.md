@@ -8,10 +8,15 @@ Our goal is to help Innovation Hub in transitioning from manual resource managem
 
 We mainly focussed on building the Inventory Management module for the Innovation Hub. Due to time crunch, we had to skip over on machine utilization and lab management and the quoting system as the entire project would definitely take more time than what was available to us throughout the course of this project.
 
-Here are some of the highlights of the project document. [Project Document]()
+Here are some of the highlights of the project document. [Project Document](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/project_documentation.pdf)
 
 ## Use Case Diagram for Inventory Management
+![Use Case Diagram](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/usecase.png)
 
 ## Entity-Relationship Diagram
+![ERD](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/ERD.png)
+
+## Class Diagram
+![Class Diagram](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/Classdiag.png)
 
 ## Mock-ups
