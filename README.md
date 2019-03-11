@@ -14,7 +14,7 @@ Here are some of the highlights of the project document. [Project Document](http
 ![Use Case Diagram](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/usecase.png)
 
 ## Entity-Relationship Diagram
-![ERD](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/ERD.png)
+![ERD](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/ERD.jpg)
 
 ## Class Diagram
 ![Class Diagram](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/Classdiag.png)
