@@ -8,6 +8,13 @@ Our goal is to help Innovation Hub in transitioning from manual resource managem
 
 We mainly focussed on building the Inventory Management module for the Innovation Hub. Due to time crunch, we had to skip over on machine utilization and lab management and the quoting system as the entire project would definitely take more time than what was available to us throughout the course of this project.
 
+The final documentation has been structured into different sections based on the life cycle of the project. The different sections are:
+1.	Requirements Gathering
+2.	Structuring Requirements
+3.	Structuring Data Requirements
+4.	User Interface
+5.	Implementation   
+
 Here are some of the highlights of the project document. [Project Document](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/project_documentation.pdf)
 
 ## Use Case Diagram for Inventory Management
