@@ -27,16 +27,24 @@ Here are some of the highlights of the project document. [Project Document](http
 ![Class Diagram](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/Classdiag.png)
 
 ## Mock-ups
-(https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/Add%20to%20menu.PNG)
+![](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/Add%20to%20menu.PNG)
 
-Add%20to%20menu.PNG	
-Capture.PNG	
-Dashboard.PNG	
-email.PNG	
-Inventory Menu.PNG	
-Standard Template.PNG	
-table.PNG	
-table2.PNG	
-Update Inventory.PNG	
-Update Menu.PNG	
-wireframe.png
+![](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/Capture.PNG)
+
+![](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/Dashboard.PNG)
+
+![](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/email.PNG)
+
+![](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/Inventory%20Menu.PNG)
+
+![](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/Standard%20Template.PNG)
+
+![](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/table.PNG)
+
+![](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/table2.PNG)
+
+![](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/Update%20Inventory.PNG)
+
+![](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/Update%20Menu.PNG)
+
+![](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/wireframe.png)
