@@ -27,3 +27,16 @@ Here are some of the highlights of the project document. [Project Document](http
 ![Class Diagram](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/Classdiag.png)
 
 ## Mock-ups
+(https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/Add%20to%20menu.PNG)
+
+Add%20to%20menu.PNG	
+Capture.PNG	
+Dashboard.PNG	
+email.PNG	
+Inventory Menu.PNG	
+Standard Template.PNG	
+table.PNG	
+table2.PNG	
+Update Inventory.PNG	
+Update Menu.PNG	
+wireframe.png
