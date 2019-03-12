@@ -29,11 +29,7 @@ Here are some of the highlights of the project document. [Project Document](http
 ## Mock-ups
 ![](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/Add%20to%20menu.PNG)
 
-![](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/Capture.PNG)
-
 ![](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/Dashboard.PNG)
-
-![](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/email.PNG)
 
 ![](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/Inventory%20Menu.PNG)
 
@@ -47,4 +43,3 @@ Here are some of the highlights of the project document. [Project Document](http
 
 ![](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/Update%20Menu.PNG)
 
-![](https://github.com/mvsabhishek/SDLC-Class-Project/blob/master/wireframe.png)
